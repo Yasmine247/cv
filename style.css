@@ -1,0 +1,22 @@
+
+body{ background-color:#f9ffea;}
+hr{
+    border-color: transparent;
+    border-top-color: gainsboro;
+    border-top-width: 5px;
+    background-color: transparent;
+
+height: 2px;
+width: 10%;
+border-top-style: dotted;}
+h1{color: #15b7b9;
+    text-shadow: 2px 2px 5px lightblue;}
+h3{color: #15b7b9;}
+h4{color: #15b7b9;}
+ 
+.Contact{ color:#6b0848;}
+.info {color: #a40a3c;}
+.box {
+    color:#f9ffea ;
+    border-color: #a40a3c;
+}
